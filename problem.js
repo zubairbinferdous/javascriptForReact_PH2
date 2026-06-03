@@ -1,4 +1,5 @@
 // 1) Basics: variables, conditions, loops
+
 // Check if a number is even or odd.
 // Find the larger number between two numbers.
 // Find the largest among three numbers.
@@ -19,7 +20,11 @@
 // Check if a character is a vowel or consonant.
 // Convert Celsius to Fahrenheit.
 // Convert Fahrenheit to Celsius.
+
+
 // 2) Number logic
+
+
 // Check if a number is prime.
 // Print all prime numbers from 1 to n.
 // Find the greatest common divisor of two numbers.
@@ -40,7 +45,9 @@
 // Count trailing zeros in factorial of a number.
 // Find whether a number is a strong number.
 // Find the digital root of a number.
+
 // 3) Pattern and loop thinking
+
 // Print a square star pattern.
 // Print a right triangle star pattern.
 // Print an inverted right triangle star pattern.
@@ -61,7 +68,9 @@
 // Print number pyramid with repeated numbers.
 // Print pyramid with increasing numbers.
 // Print concentric square number pattern.
+
 // 4) String logic
+
 // Find the length of a string without using .length.
 // Reverse a string.
 // Check if a string is a palindrome.
@@ -82,7 +91,9 @@
 // Replace all vowels with *.
 // Compress a string like "aaabbc" → "a3b2c1".
 // Decompress a string like "a3b2c1" → "aaabbc".
+
 // 5) Array basics
+
 // Find the largest element in an array.
 // Find the smallest element in an array.
 // Find the second largest element in an array.
@@ -103,7 +114,9 @@
 // Find the element that appears the most.
 // Rotate an array left by one position.
 // Rotate an array right by k positions.
+
 // 6) Array intermediate logic
+
 // Find all pairs with a given sum.
 // Find all triplets with a given sum.
 // Find the subarray with maximum sum.
@@ -124,7 +137,9 @@
 // Find leaders in an array.
 // Find equilibrium index in an array.
 // Find majority element in an array.
+
 // 7) Object and map/set logic
+
 // Count frequency of words in a sentence using object/map.
 // Group array elements by type.
 // Convert an object to array of keys and values.
@@ -135,7 +150,9 @@
 // Merge two objects and sum common numeric keys.
 // Find duplicate values in an object.
 // Sort object keys alphabetically.
+
 // 8) Recursion and backtracking
+
 // Find factorial using recursion.
 // Find Fibonacci using recursion.
 // Reverse a string using recursion.
